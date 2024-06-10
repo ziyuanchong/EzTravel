@@ -1,3 +1,46 @@
 {
   "Singapore" : [
-    "wild-
+    {
+      "Adventure" : [
+        {
+          "Name" : "Universal Studios Singapore",
+          "Description" : "Go beyond the screen and Ride The Movies™ at Universal Studios Singapore™ at Resorts World™ Sentosa. Experience cutting-edge rides, shows, and attractions based on your favorite blockbuster films and television series."
+          "Opening Hours" : "10am - 8pm"
+        },
+        {
+          "Name" : "iFly Singapore",
+          "Description" : "Experience the thrill of skydiving in one of the world's largest indoor skydiving wind tunnels at iFly Singapore on Sentosa Island.",
+          "Opening Hours": "9am - 10pm daily, except Wednesday 11am - 10pm",
+        },
+        {
+          "Name" : "AJ Hackett Sentosa",
+          "Description": "AJ Hackett Sentosa is home to Singapore's first and only bungy tower, giant swing, and skybridge for those seeking a rush of adrenaline and adventure.",
+          "Opening Hours" : "11.30am - 7.30pm daily",
+        },
+        {
+          "Name" : "Mega Adventure Park",
+          "Description" :"At Mega Adventure Park, take on the MegaZip, a 450-meter zip line that sends you flying over the jungle canopy of Sentosa Island.",
+          "Opening Hours": "11am - 6pm, Monday to Thursday, 11am - 6.30pm, Friday to Sundays",
+        },
+        {
+          "Name" :,
+          "Description" :,
+          "Opening Hours":,
+        },
+        {
+          "Name" :,
+          "Description" :,
+          "Opening Hours":,
+        },
+        {
+          "Name" :,
+          "Description" :,
+          "Opening Hours":,
+        },
+        {
+          "Name" :,
+          "Description" :,
+          "Opening Hours":,
+        },
+        
+          
