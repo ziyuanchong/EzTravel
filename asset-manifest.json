@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ziyuanchong/EzTravel/static/css/main.a0bc6e9d.css",
-    "main.js": "/ziyuanchong/EzTravel/static/js/main.652a3856.js",
-    "static/js/511.893bfd38.chunk.js": "/ziyuanchong/EzTravel/static/js/511.893bfd38.chunk.js",
-    "index.html": "/ziyuanchong/EzTravel/index.html",
-    "main.a0bc6e9d.css.map": "/ziyuanchong/EzTravel/static/css/main.a0bc6e9d.css.map",
-    "main.652a3856.js.map": "/ziyuanchong/EzTravel/static/js/main.652a3856.js.map",
-    "511.893bfd38.chunk.js.map": "/ziyuanchong/EzTravel/static/js/511.893bfd38.chunk.js.map"
+    "main.css": "/EzTravel/static/css/main.a0bc6e9d.css",
+    "main.js": "/EzTravel/static/js/main.28266a10.js",
+    "static/js/511.893bfd38.chunk.js": "/EzTravel/static/js/511.893bfd38.chunk.js",
+    "index.html": "/EzTravel/index.html",
+    "main.a0bc6e9d.css.map": "/EzTravel/static/css/main.a0bc6e9d.css.map",
+    "main.28266a10.js.map": "/EzTravel/static/js/main.28266a10.js.map",
+    "511.893bfd38.chunk.js.map": "/EzTravel/static/js/511.893bfd38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0bc6e9d.css",
-    "static/js/main.652a3856.js"
+    "static/js/main.28266a10.js"
   ]
 }
