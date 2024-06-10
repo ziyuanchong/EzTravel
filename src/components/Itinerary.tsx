@@ -1,20 +1,27 @@
 import "./Itinerary.css";
+import React, { useState, useEffect } from "react";
 
 function Itinerary() {
+  const [attractions, setAttractions] = useState([]);
+
+  useEffect(() => {
+    const fetchData = () => {
+      const result = fetch("/Attractions.json");
+      setAttractions(result);
+    };
+    fetchData();
+  }, []);
+
   return (
-    <>
-      <div className="itinerary">
-        {/*{Data.map((data) => {
-          return (
-            <div className="Hello" key={data.Name}>
-              {data.Name}<br/>
-             {data.Description}<br/>
-            </div>
-          );
-        })}
-    */}
-      </div>
-    </>
+    <div>
+      {attractions.length === 0 ? (
+        <p>Loading...</p>
+      ) : (
+        attractions.sgdata.map((attraction, Name) => (
+          <p key={Name}>{attraction}</p>
+        ))
+      )}
+    </div>
   );
 }
 
